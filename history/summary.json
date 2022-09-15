@@ -4,19 +4,19 @@
     "url": "https://pharmaverse.org/",
     "icon": "https://favicons.githubusercontent.com/pharmaverse.org",
     "slug": "pharmaverse",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "97.37%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.99%",
-    "time": 304,
-    "timeDay": 297,
-    "timeWeek": 259,
-    "timeMonth": 232,
-    "timeYear": 304,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "95.18%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.98%",
+    "time": 303,
+    "timeDay": 221,
+    "timeWeek": 238,
+    "timeMonth": 227,
+    "timeYear": 303,
     "dailyMinutesDown": {
-      "2022-09-15": 38
+      "2022-09-15": 70
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://pharmaverse.org/e2eclinical/tlg/",
     "icon": "https://favicons.githubusercontent.com/pharmaverse.org",
     "slug": "pharmaverse-sub-page",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "97.37%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "95.18%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.98%",
     "time": 92,
-    "timeDay": 148,
-    "timeWeek": 145,
-    "timeMonth": 90,
+    "timeDay": 106,
+    "timeWeek": 131,
+    "timeMonth": 88,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2022-09-15": 38
+      "2022-09-15": 70
     }
   },
   {
