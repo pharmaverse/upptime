@@ -4,9 +4,9 @@
     "url": "https://pharmaverse.org/",
     "icon": "https://favicons.githubusercontent.com/pharmaverse.org",
     "slug": "pharmaverse",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 242,
     "timeMonth": 227,
     "timeYear": 304,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "Pharmaverse sub-page",
     "url": "https://pharmaverse.org/e2eclinical/tlg/",
     "icon": "https://favicons.githubusercontent.com/pharmaverse.org",
     "slug": "pharmaverse-sub-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 141,
     "timeMonth": 87,
     "timeYear": 92,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "Openpharma",
