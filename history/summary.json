@@ -2,7 +2,7 @@
   {
     "name": "Pharmaverse",
     "url": "https://pharmaverse.org/",
-    "icon": "https://favicons.githubusercontent.com/pharmaverse.org",
+    "icon": "https://icons.duckduckgo.com/ip3/pharmaverse.org.ico",
     "slug": "pharmaverse",
     "status": "up",
     "uptime": "99.98%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
-    "time": 295,
-    "timeDay": 104,
-    "timeWeek": 219,
+    "time": 294,
+    "timeDay": 202,
+    "timeWeek": 221,
     "timeMonth": 208,
-    "timeYear": 295,
+    "timeYear": 294,
     "dailyMinutesDown": {
       "2022-09-15": 70
     }
@@ -22,7 +22,7 @@
   {
     "name": "Pharmaverse sub-page",
     "url": "https://pharmaverse.org/e2eclinical/tlg/",
-    "icon": "https://favicons.githubusercontent.com/pharmaverse.org",
+    "icon": "https://icons.duckduckgo.com/ip3/pharmaverse.org.ico",
     "slug": "pharmaverse-sub-page",
     "status": "up",
     "uptime": "99.98%",
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
     "time": 88,
-    "timeDay": 12,
-    "timeWeek": 71,
-    "timeMonth": 74,
+    "timeDay": 61,
+    "timeWeek": 43,
+    "timeMonth": 75,
     "timeYear": 88,
     "dailyMinutesDown": {
       "2022-09-15": 70
@@ -42,7 +42,7 @@
   {
     "name": "Openpharma",
     "url": "https://openpharma.github.io/",
-    "icon": "https://favicons.githubusercontent.com/openpharma.github.io",
+    "icon": "https://icons.duckduckgo.com/ip3/openpharma.github.io.ico",
     "slug": "openpharma",
     "status": "up",
     "uptime": "100.00%",
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 356,
-    "timeDay": 157,
-    "timeWeek": 320,
-    "timeMonth": 461,
-    "timeYear": 356,
+    "time": 355,
+    "timeDay": 235,
+    "timeWeek": 276,
+    "timeMonth": 463,
+    "timeYear": 355,
     "dailyMinutesDown": {}
   }
 ]
