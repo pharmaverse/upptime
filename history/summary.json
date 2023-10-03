@@ -4,36 +4,40 @@
     "url": "https://pharmaverse.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pharmaverse.org.ico",
     "slug": "pharmaverse",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 251,
-    "timeDay": 220,
-    "timeWeek": 266,
-    "timeMonth": 282,
-    "timeYear": 244,
-    "dailyMinutesDown": {}
+    "time": 279,
+    "timeDay": 7009,
+    "timeWeek": 1957,
+    "timeMonth": 718,
+    "timeYear": 281,
+    "dailyMinutesDown": {
+      "2023-10-03": 0
+    }
   },
   {
     "name": "Pharmaverse sub-page",
     "url": "https://pharmaverse.org/e2eclinical/tlg/",
     "icon": "https://icons.duckduckgo.com/ip3/pharmaverse.org.ico",
     "slug": "pharmaverse-sub-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 84,
-    "timeDay": 39,
-    "timeWeek": 47,
-    "timeMonth": 74,
+    "timeDay": 21,
+    "timeWeek": 41,
+    "timeMonth": 72,
     "timeYear": 86,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-03": 0
+    }
   },
   {
     "name": "Openpharma",
