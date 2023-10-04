@@ -4,17 +4,17 @@
     "url": "https://pharmaverse.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pharmaverse.org.ico",
     "slug": "pharmaverse",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "98.36%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 279,
-    "timeDay": 7009,
-    "timeWeek": 1957,
-    "timeMonth": 718,
-    "timeYear": 281,
+    "timeDay": 4786,
+    "timeWeek": 1772,
+    "timeMonth": 707,
+    "timeYear": 282,
     "dailyMinutesDown": {
       "2023-10-03": 24
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 84,
-    "timeDay": 21,
-    "timeWeek": 39,
-    "timeMonth": 70,
+    "timeDay": 28,
+    "timeWeek": 44,
+    "timeMonth": 72,
     "timeYear": 86,
     "dailyMinutesDown": {
       "2023-10-03": 24
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 42,
-    "timeWeek": 92,
-    "timeMonth": 88,
-    "timeYear": 156,
+    "time": 213,
+    "timeDay": 90,
+    "timeWeek": 82,
+    "timeMonth": 90,
+    "timeYear": 155,
     "dailyMinutesDown": {}
   }
 ]
