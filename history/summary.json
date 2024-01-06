@@ -4,10 +4,10 @@
     "url": "https://pharmaverse.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pharmaverse.org.ico",
     "slug": "pharmaverse",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 270,
@@ -16,6 +16,7 @@
     "timeMonth": 251,
     "timeYear": 279,
     "dailyMinutesDown": {
+      "2024-01-06": 1,
       "2023-10-03": 24
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://pharmaverse.org/e2eclinical/tlg/",
     "icon": "https://icons.duckduckgo.com/ip3/pharmaverse.org.ico",
     "slug": "pharmaverse-sub-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,6 +37,7 @@
     "timeMonth": 77,
     "timeYear": 79,
     "dailyMinutesDown": {
+      "2024-01-06": 0,
       "2023-10-03": 24
     }
   },
