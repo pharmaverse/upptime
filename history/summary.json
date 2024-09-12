@@ -44,17 +44,19 @@
     "url": "https://openpharma.github.io/",
     "icon": "https://icons.duckduckgo.com/ip3/openpharma.github.io.ico",
     "slug": "openpharma",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 93,
-    "timeDay": 221,
-    "timeWeek": 94,
-    "timeMonth": 101,
+    "timeDay": 145,
+    "timeWeek": 91,
+    "timeMonth": 100,
     "timeYear": 94,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-12": 0
+    }
   }
 ]
